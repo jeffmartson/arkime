@@ -54,7 +54,7 @@
     "unzipper": "^0.10.11",
     "uuid": "^9.0.0",
     "vue": "^2.6.12",
-    "vue-server-renderer": "^2.6.12"
+    "vue-server-renderer": "^2.7.0"
   },
   "scripts": {
     "lint": "eslint --ext .js,.vue parliament viewer wiseService capture/plugins common cont3xt",
