@@ -48,7 +48,7 @@
     "pug": "^3.0.2",
     "re2": "^1.18.0",
     "serve-favicon": "^2.5.0",
-    "splunk-sdk": "^1.11.0",
+    "splunk-sdk": "^2.0.1",
     "stylus": "^0.59.0",
     "through2": "^4.0.2",
     "unzipper": "^0.10.11",
